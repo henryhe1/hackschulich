@@ -1,5 +1,5 @@
 title = "Hack Schulich"
-baseURL = ""
+baseURL = "www.henryhe1.github.io/hackschulich"
 tags = ["hackathon", "university", "tech", "medicine"]
 languageCode = "en-US"
 config = "config.toml"
