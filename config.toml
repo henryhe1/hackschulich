@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     weight = 1
 [[menu.main]]
     name = "Apply"
-    url  = "/#apply"
+    url  = "https://hackschulich.typeform.com/to/jMBOhW"
     weight = 2
 [[menu.main]]
     name = "Blog"
